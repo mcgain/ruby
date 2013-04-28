@@ -1923,7 +1923,7 @@ reswords	: keyword__LINE__ | keyword__FILE__ | keyword__ENCODING__
 		| keyword_defined | keyword_do | keyword_else | keyword_elsif
 		| keyword_end | keyword_ensure | keyword_false
 		| keyword_for | keyword_in | keyword_module | keyword_next
-		| keyword_nil | keyword_not | keyword_or | keyword_redo
+		| keyword_not | keyword_or | keyword_redo
 		| keyword_rescue | keyword_retry | keyword_return | keyword_self
 		| keyword_super | keyword_then | keyword_true | keyword_undef
 		| keyword_when | keyword_yield | keyword_if | keyword_unless
